@@ -1,5 +1,4 @@
-## Hi there 👋
-Je me nomme Sadia
+## Hi there
 
 <!--
 **Sadia-SD/Sadia-SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
