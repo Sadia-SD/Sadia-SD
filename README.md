@@ -5,7 +5,7 @@
 Je suis actuellement en deuxième année de **BUT Science des Données**, passionné par l'analyse de données, l'intelligence artificielle et l'automatisation des processus. J'aime explorer et manipuler des données pour en extraire des insights pertinents et améliorer la prise de décision.
 
 ## 🔍 Compétences
-- **Programmation** : Python (Pandas, NumPy, Matplotlib), SQL, Java  
+- **Programmation** : Python (Pandas, Matplotlib), SQL, Java  
 - **Analyse de données** : Prétraitement, visualisation, modélisation statistique  
 - **Automatisation & Web Scraping** : Scripts Python pour extraction et traitement de données  
 - **Gestion de bases de données** : MySQL, PostgreSQL  
