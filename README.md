@@ -2,7 +2,7 @@
 # 📌 README - [Sadia CISSE]
 
 ## 🎓 À propos de moi
-Je suis actuellement en deuxième année de **BUT Science des Données**, passionné par l'analyse de données, l'intelligence artificielle et l'automatisation des processus. J'aime explorer et manipuler des données pour en extraire des insights pertinents et améliorer la prise de décision.
+Je suis actuellement en deuxième année de **BUT Technologie de l'Information**, passionné par l'analyse de données, l'intelligence artificielle et l'automatisation des processus. J'aime explorer et manipuler des données pour en extraire des insights pertinents et améliorer la prise de décision.
 
 ## 🔍 Compétences
 - **Programmation** : Python (Pandas, Matplotlib), R , SQL , Java  
